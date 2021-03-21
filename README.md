@@ -1,4 +1,4 @@
-# Java_PerfectPower
+# PerfectPower_Java
 This application allows you to find the perfect power of a number entered.
 
 ### What is Perfect Power ?
